@@ -1,4 +1,3 @@
-//搜集各位大佬的源，非原创
 {
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "lives": [
@@ -828,7 +827,7 @@
         "哔哩哔哩",
         "哔哩"
     ],
-    "spider": "http://waurl.cn/dxaw",
+    "spider": "http://aec56804b2068e63edf5.test.upcdn.net/apicloud/4bd2275690262e2b338920201a674539.jar",
     "ijk": [
         {
             "group": "软解码",
